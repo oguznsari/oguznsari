@@ -46,8 +46,8 @@
             style="display: inline-block; margin: 5px; height: 40px;">
         <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/mysql.svg' alt='MySQL'
             style="display: inline-block; margin: 5px; height: 45px;">
-    </div>
-    <div align="center" width="100%">
+        <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/line.png' alt='line'
+            style="display: inline-block; margin: 5px; height: 50x;">
         <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/html.svg' alt='HTML5'
             style="display: inline-block; margin: 5px; height: 40px;">
         <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/css.svg' alt='CSS3'
@@ -64,8 +64,8 @@
             style="display: inline-block; margin: 5px; height: 40px;">
         <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/elasticsearch.svg' alt='ElasticSearch'
             style="display: inline-block; margin: 5px; height: 40px;">
-    </div>
-    <div align="center" width="100%">
+        <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/line.png' alt='line'
+            style="display: inline-block; margin: 5px; height: 50x;">
         <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/git.svg' alt='Git'
             style="display: inline-block; margin: 5px; height: 40px;">
         <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/jira.svg' alt='Jira'
