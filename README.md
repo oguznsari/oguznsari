@@ -3,7 +3,7 @@
 <div align="center" width="100%">
     <h2>About Me</h2>
     <p align="center" width="100%">
-        👋 I'm a dedicated Software Engineer based in Istanbul, Turkey, with a strong passion for continuous learning
+        👋 I'm a dedicated Software Engineer based in Istanbul, Turkey. With a strong passion for continuous learning
         and staying up-to-date with cutting-edge technologies.
         <br /><br />
         💼 Formerly, I worked as a Backend Developer, gaining valuable experience in PHP and MySQL while contributing to
