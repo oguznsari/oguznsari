@@ -89,6 +89,6 @@
     </a>
     <a href="https://wa.me/905395013518">
         <img src="https://github.com/oguznsari/oguznsari/blob/main/logos/whatsapp.svg" alt="WhatsApp"
-            style="height: 65px;">
+            style="height: 50px;">
     </a>
 </div>
