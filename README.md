@@ -40,8 +40,6 @@
     <div align="center" width="100%">
         <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/linux.svg' alt='Linux'
             style="display: inline-block; margin: 5px; height: 50px;">
-        <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/apache.svg' alt='Apache'
-            style="display: inline-block; margin: 5px; height: 24px;">
         <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/php.svg' alt='PHP'
             style="display: inline-block; margin: 5px; height: 40px;">
         <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/mysql.svg' alt='MySQL'
@@ -59,8 +57,6 @@
         <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/docker.svg' alt='Docker'
             style="display: inline-block; margin: 5px; height: 50px;">
         <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/redis.svg' alt='Redis'
-            style="display: inline-block; margin: 5px; height: 40px;">
-        <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/clickhouse.svg' alt='ClickHouse'
             style="display: inline-block; margin: 5px; height: 40px;">
         <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/elasticsearch.svg' alt='ElasticSearch'
             style="display: inline-block; margin: 5px; height: 40px;">
