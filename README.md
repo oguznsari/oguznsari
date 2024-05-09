@@ -56,6 +56,8 @@
     <div align="center" width="100%">
         <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/docker.svg' alt='Docker'
             style="display: inline-block; margin: 5px; height: 50px;">
+        <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/kafka.svg' alt='Kafka'
+            style="display: inline-block; margin: 5px; height: 40px; color: white;">
         <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/redis.svg' alt='Redis'
             style="display: inline-block; margin: 5px; height: 40px;">
         <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/elasticsearch.svg' alt='ElasticSearch'
