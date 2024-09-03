@@ -54,6 +54,8 @@
             style="display: inline-block; margin: 5px; height: 30px;">
     </div>
     <div align="center" width="100%">
+        <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/aws.svg' alt='AWS'
+            style="display: inline-block; margin: 5px; height: 40px;">
         <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/docker.svg' alt='Docker'
             style="display: inline-block; margin: 5px; height: 50px;">
         <img src='https://github.com/oguznsari/oguznsari/blob/main/logos/kafka.svg' alt='Kafka'
